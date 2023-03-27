@@ -1,0 +1,2 @@
+Hello world!
+Use me as sample file to generate hash
